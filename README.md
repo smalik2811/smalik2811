@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sonu Malik
+# 👋 Hi, I'm Sonu
 
 🚀 I'm a developer building futuristic solutions — one commit at a time.
 
@@ -7,5 +7,5 @@
 
 ---
 
-🔧 Technologies I work with: JavaScript, React, Node.js, Next.js, Python  
+🔧 Technologies I work with: JavaScript, React, Node.js, Express.js, Flask, Python, Jetpack Compose, Kotlin
 📫 Connect with me: [GitHub](https://github.com/smalik2811) | [LinkedIn](https://www.linkedin.com/in/sonu-malik-0x6869/) | [Email](mailto:smalik2811@gmail.com)
